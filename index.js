@@ -1,1 +1,1 @@
-console.log("Hello Git");
+let x = 10;
